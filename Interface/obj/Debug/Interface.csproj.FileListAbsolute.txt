@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Ильяс Сабитов\source\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Ильяс Сабитов\source\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Ильяс Сабитов\source\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Ильяс Сабитов\source\Interface\Interface\obj\Debug\Interface.pdb
